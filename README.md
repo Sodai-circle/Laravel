@@ -27,7 +27,7 @@
 4. コンテナを構築、起動
 
    ```
-   docker-compose up -d workspace nginx
+   docker-compose up -d workspace nginx mysql
    ```
 
 5. workspaceのbashに入りlaravelアプリを作成
