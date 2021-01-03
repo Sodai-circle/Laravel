@@ -12,6 +12,7 @@ RUN apt-get update && \
       vim \
       zip \
       unzip \
+      wget \
     && apt-get clean
 RUN docker-php-ext-install pdo_mysql
 
