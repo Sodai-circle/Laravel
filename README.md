@@ -7,7 +7,7 @@
 1. リポジトリをクローン
 
    ```
-   git clone https://gitlab.com/welcome-to-sodai/laravel.git laravel_app/laradock
+   git clone https://github.com/Sodai-circle/Laravel.git laravel_app/laradock
    ```
 
 2. laradock階層で
